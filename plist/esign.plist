@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://archive.org/download/esign-4.5.1-1662292689/ESign_4.5.1_1662292689.ipa</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>url</key>
+          <string>https://github.com/iosoyunclub/iosoyunclub.github.io/blob/main/icons/photo_2022-06-15_20-37-24.jpg?raw=true</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>url</key>
+          <string>https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/83/50/b2/8350b212-9665-c295-5183-4167d956932c/source/512x512bb.jpg</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>p3.xyz.yyyue.esignn</string>
+        <key>bundle-version</key>
+        <string>2.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>ESign</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>

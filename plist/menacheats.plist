@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://up-ipa.xyz/file/595c32d4-f3c7-4bec-9593-944d221ec3cf.ipa/shared/iu6HwVwemY0ZlGHP</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>display-image</string>
+          <key>url</key>
+          <string>https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/5a/ec/76/5aec7627-078b-0ee5-c158-6d4307b206bc/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/230x0w.webp</string>
+        </dict>
+        <dict>
+          <key>kind</key>
+          <string>full-size-image</string>
+          <key>url</key>
+          <string>https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/5a/ec/76/5aec7627-078b-0ee5-c158-6d4307b206bc/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/230x0w.webp</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.mena.cheats</string>
+        <key>bundle-version</key>
+        <string>2.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Pubg Mobile</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
